@@ -1,6 +1,6 @@
 # Gaza’s Hostage Standoff
 
-*This is a follow-up to a prior \[legal-evidence brief on Gaza]\(2025-09-12 Palestinian eradication). It does not seek heroes or villains. It asks who can, today, prevent foreseeable civilian death—and what it would take to do so.*
+*This is a follow-up to a prior [legal-evidence brief on Gaza](2025-09-12 Palestinian eradication). It does not seek heroes or villains. It asks who can, today, prevent foreseeable civilian death—and what it would take to do so.*
 
 ## A sober look at leverage, responsibility, and what it would take to stop the mass dying
 
