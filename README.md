@@ -1,0 +1,1 @@
+Various essays and snippets of text I want to share.
