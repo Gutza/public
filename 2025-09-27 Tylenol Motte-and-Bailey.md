@@ -4,6 +4,17 @@
 
 In September 2025, former U.S. President Donald Trump publicly connected prenatal acetaminophen (paracetamol/Tylenol) to autism and ADHD, punctuated by categorical admonitions such as “Don’t take Tylenol,” and amplified by a White House fact sheet asserting that use of acetaminophen in pregnancy—“especially late in pregnancy”—“may cause long-term neurological effects” in children. Those definitive lines ignited understandable pushback from clinicians and scientists.
 
+> ### What Trump actually said (Sept 22, 2025)
+> 
+> - “The meteoric rise in autism is among the most alarming public health developments in history.”
+> - “Tylenol during pregnancy … can be associated with a very increased risk of autism.”
+> - “So taking Tylenol is not good.”
+> - “We are … strongly recommending that women limit Tylenol use during pregnancy unless medically necessary.”
+> - “You have certain groups … the Amish … they have essentially no autism.”
+> - “Today, the FDA will issue a physician’s notice about the risk of acetaminophen during pregnancy and begin the process to initiate a safety label change.”
+>
+> *Sources: White House remarks transcript, Sept 22, 2025; administration fact sheet and agency materials.*
+
 The Facebook [post](https://www.facebook.com/denisalexandru.velciu/posts/pfbid0P4hy1oRQPstGkP1g4GNfpqoxy5SsHYkCzdE8Mpz2DFVkk9Q69eV9XK5n39hniPG5l) we analyze opens with the claim that criticism of Trump is driven by “Orange Man Bad/TDS (Trump Derangement Syndrome)” bias: people reject what he says out of emotion, not reason (e.g., if Trump said the Sun is white, “they” would insist it is yellow). The author portrays Trump as erratic yet occasionally correct thanks to advisers, then revisits COVID-era ivermectin, arguing it was unfairly demonized despite being clinically safe and initially supported by small studies (while acknowledging larger trials later showed minimal benefit). Turning to Trump’s new assertion that acetaminophen (paracetamol/Tylenol) in pregnancy causes autism, the post concedes the evidence is “thin,” but highlights four studies reporting modest associations (1. a large Swedish cohort with sibling analyses, 2. an NIH cord-blood biomarker study, 3. a systematic review using the Navigation Guide, and 4. a multi-cohort European analysis). It repeatedly stresses “association ≠ causation,” notes that clinical guidance remains unchanged (use acetaminophen only when needed, low dose, short duration), warns that both hatred and idolization can cloud judgment, and ends with a call to read PubMed abstracts instead of Facebook comments. In tone and structure, it presents itself as a neutral, reasonable, data-driven plea for critical thinking.
 
 This essay argues that the post is a textbook **motte-and-bailey** maneuver: the **bailey** (an expansive, indefensible claim) would be claiming that Trump’s categorical warning was substantively right or at least reasonable. When challenged, the defender retreats to the **motte** (a narrow, defensible truism): “*some studies report an association; association ≠ causation; we should be calm and read the literature.*” Once critics are exhausted disputing that narrow truism, the rhetoric flows back to the bailey—using the “be reasonable” stance as retroactive cover for the original, extreme claim.
