@@ -10,7 +10,9 @@ This essay argues that the post is a textbook **motte-and-bailey** maneuver: the
 
 ## What is the motte-and-bailey?
 
-Coined by philosopher Nicholas Shackel, the motte-and-bailey fallacy describes a two-position strategy:
+![Motte-and-Bailey](images/motte-and-bailey.jpg)
+
+Coined by philosopher Nicholas Shackel, **the motte-and-bailey fallacy** is inspired by the design of medieval castles, and it **describes a two-position strategy**:
 
 * **Bailey**: a broad, provocative claim that advances an agenda but is hard to defend.
 * **Motte**: a modest, defensible claim that is easy to defend (often a near-tautology or widely accepted caveat).
