@@ -30,6 +30,6 @@ That’s why post-Dobbs reality has split the electorate but not the machine. Wh
 
 **Bottom line:** Weyrich didn’t discover evangelicals’ deepest theological conviction in abortion; he discovered a winning story that could unify and mobilize while masking the movement’s birth in resistance to civil-rights enforcement. Judge the coalition by the systems it builds and the people it punishes—not by the righteousness of its bumper stickers. Abortion was the line on the pack. The agenda was—and remains—preserving a racialized, Christian, patriarchal hierarchy under a friendlier light.
 
-[1]: https://amc.sas.upenn.edu/sites/default/files/Balmer%20-%20Historian%27s%20Pickaxe.pdf?utm_source=chatgpt.com "Balmer - Historian's Pickaxe.pdf"
-[2]: https://en.wikipedia.org/wiki/Paul_Weyrich?utm_source=chatgpt.com "Paul Weyrich"
-[3]: https://en.wikipedia.org/wiki/Moral_Majority?utm_source=chatgpt.com "Moral Majority"
+[1]: https://amc.sas.upenn.edu/sites/default/files/Balmer%20-%20Historian%27s%20Pickaxe.pdf "Balmer - Historian's Pickaxe.pdf"
+[2]: https://en.wikipedia.org/wiki/Paul_Weyrich "Paul Weyrich"
+[3]: https://en.wikipedia.org/wiki/Moral_Majority "Moral Majority"
