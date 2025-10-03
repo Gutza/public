@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Public essays</title>
+    <link>https://gutza.github.io/public/</link>
+    <description>Various public essays and ad hoc text snippets originally posted on [my blog](https://gutza.github.io/public):</description>
+    <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Abortion Was Never The Issue</title>
+      <link>https://gutza.github.io/public/2025-10-01%20Abortion%20Was%20Never%20The%20Issue</link>
+      <guid isPermaLink="true">https://gutza.github.io/public/2025-10-01%20Abortion%20Was%20Never%20The%20Issue</guid>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <description>There’s a scene in the *Mad Men* pilot that doubles as a decoder ring for American politics. New rules ban health claims about cigarettes; the Lucky Strike account is in trouble. Don Draper doesn’t fight the rules—he reframes the product. If no brand can sell “safe,” then no brand can differentiate on safety. So he sells something else: “It’s toasted.” The line doesn’t resolve the moral problem; it resolves the marketing problem. It gives the base a reason to feel good while nothing fundamental changes.</description>
+    </item>
+    <item>
+      <title>A Case Study in Motte-and-Bailey: “Be Reasonable” as a Shield for Extreme Health Claims</title>
+      <link>https://gutza.github.io/public/2025-09-27%20Tylenol%20Motte-and-Bailey</link>
+      <guid isPermaLink="true">https://gutza.github.io/public/2025-09-27%20Tylenol%20Motte-and-Bailey</guid>
+      <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+      <description>## Introduction: The claim, the backlash, and the “reasonable” retreat</description>
+    </item>
+    <item>
+      <title>Why Russia Keeps Prodding the West: A Three-Pronged Tactic</title>
+      <link>https://gutza.github.io/public/2025-09-27%20Why%20Russia%20Keeps%20Prodding%20the%20West</link>
+      <guid isPermaLink="true">https://gutza.github.io/public/2025-09-27%20Why%20Russia%20Keeps%20Prodding%20the%20West</guid>
+      <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+      <description>Every month, Russia finds new ways to poke NATO in the ribs: drones straying into Polish airspace, GPS jamming over the Baltics, veiled nuclear threats in Kremlin pressers. To outsiders, this brinkmanship looks like needless risk. Why would Vladimir Putin endanger a clash he cannot win?</description>
+    </item>
+    <item>
+      <title>Gaza’s Hostage Standoff</title>
+      <link>https://gutza.github.io/public/2025-09-21%20Gaza%27s%20hostage%20standoff</link>
+      <guid isPermaLink="true">https://gutza.github.io/public/2025-09-21%20Gaza%27s%20hostage%20standoff</guid>
+      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
+      <description>*This is a follow-up to a prior legal-evidence brief on Gaza. It does not seek heroes or villains. It asks who can, today, prevent foreseeable civilian death—and what it would take to do so.*</description>
+    </item>
+    <item>
+      <title>Wake up! Russia is falling</title>
+      <link>https://gutza.github.io/public/2025-09-20%20Russia%20is%20falling</link>
+      <guid isPermaLink="true">https://gutza.github.io/public/2025-09-20%20Russia%20is%20falling</guid>
+      <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+      <description>*Start planning for post-war realities*</description>
+    </item>
+    <item>
+      <title>Are there well-founded reasons to believe that Israel is attempting to eradicate the Palestinian population in Gaza?</title>
+      <link>https://gutza.github.io/public/2025-09-12%20Palestinian%20eradication</link>
+      <guid isPermaLink="true">https://gutza.github.io/public/2025-09-12%20Palestinian%20eradication</guid>
+      <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
+      <description>*(A legal-evidence brief, with sources)*</description>
+    </item>
+  </channel>
+</rss>
