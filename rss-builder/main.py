@@ -12,8 +12,10 @@ from xml.sax.saxutils import escape as xml_escape
 
 
 MAIN_FOLDER = Path(__file__).parent.parent
-DEFAULT_OUTPUT = MAIN_FOLDER / "rss-feed.xml"
+RSS_FEED_FILENAME = "rss-feed.xml"
+RSS_FEED_PATH = MAIN_FOLDER / RSS_FEED_FILENAME
 IGNORE_FILES = ["README.md"]
+BASE_URL = "https://gutza.github.io/public/"
 
 def parse_args(argv: Optional[List[str]] = None) -> argparse.Namespace:
     parser = argparse.ArgumentParser(
@@ -25,7 +27,7 @@ def parse_args(argv: Optional[List[str]] = None) -> argparse.Namespace:
 
     default_title = "Public essays"
     default_desc = _derive_default_description()
-    default_base_url = _derive_default_base_url() or "https://gutza.github.io/public/"
+    default_base_url = BASE_URL
 
     parser.add_argument(
         "--base-url",
@@ -52,13 +54,21 @@ def parse_args(argv: Optional[List[str]] = None) -> argparse.Namespace:
     parser.add_argument(
         "--output",
         type=Path,
-        default=DEFAULT_OUTPUT,
-        help=f"Output file path (default: {DEFAULT_OUTPUT})",
+        default=RSS_FEED_PATH,
+        help=f"Output file path (default: {RSS_FEED_PATH})",
     )
     parser.add_argument(
         "--verbose",
         action="store_true",
         help="Print details while building the feed",
+    )
+    parser.add_argument(
+        "--feed-url",
+        default=f"{BASE_URL}{RSS_FEED_FILENAME}",
+        help=(
+            "Canonical URL of the generated feed (atom:link rel=\"self\"). "
+            "Defaults to base-url + output filename."
+        ),
     )
 
     return parser.parse_args(argv)
@@ -73,20 +83,6 @@ def _derive_default_description() -> str:
         return first_line or "Feed of essays"
     except Exception:
         return "Feed of essays"
-
-
-def _derive_default_base_url() -> Optional[str]:
-    """Try to infer a base URL from the root README first line."""
-    readme_path = MAIN_FOLDER / "README.md"
-    if not readme_path.exists():
-        return None
-    try:
-        text = readme_path.read_text(encoding="utf-8")
-        # Pick the first Markdown link URL
-        m = re.search(r"\((https?://[^)\s]+)\)", text)
-        return m.group(1) if m else None
-    except Exception:
-        return None
 
 
 def find_markdown_files() -> List[Path]:
@@ -196,6 +192,7 @@ def build_rss(
     base_url: str,
     channel_title: str,
     channel_description: str,
+    feed_url: Optional[str],
 ) -> str:
     # Ensure base_url ends with a slash
     if not base_url.endswith("/"):
@@ -206,12 +203,16 @@ def build_rss(
 
     xml_parts: List[str] = []
     xml_parts.append("<?xml version=\"1.0\" encoding=\"UTF-8\"?>")
-    xml_parts.append("<rss version=\"2.0\">")
+    xml_parts.append("<rss version=\"2.0\" xmlns:atom=\"http://www.w3.org/2005/Atom\">")
     xml_parts.append("  <channel>")
     xml_parts.append(f"    <title>{xml_escape(channel_title)}</title>")
     xml_parts.append(f"    <link>{xml_escape(base_url)}</link>")
     xml_parts.append(f"    <description>{xml_escape(channel_description)}</description>")
     xml_parts.append(f"    <lastBuildDate>{xml_escape(channel_pub_date)}</lastBuildDate>")
+    if feed_url:
+        xml_parts.append(
+            f"    <atom:link href=\"{xml_escape(feed_url)}\" rel=\"self\" type=\"application/rss+xml\" />"
+        )
 
     for article in items:
         title = xml_escape(article["title"]) if article["title"] else "Untitled"
@@ -254,11 +255,15 @@ def main(argv: Optional[List[str]] = None) -> int:
         for a in articles:
             print(f"+ {a['published_at'].date()} | {a['title']} -> {a['rel_url_path']}")
 
+    # Determine feed self URL
+    feed_url = args.feed_url
+
     rss_xml = build_rss(
         articles,
         base_url=args.base_url,
         channel_title=args.title,
         channel_description=args.description,
+        feed_url=feed_url,
     )
 
     args.output.write_text(rss_xml, encoding="utf-8")

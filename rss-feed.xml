@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Public essays</title>
     <link>https://gutza.github.io/public/</link>
     <description>Various public essays and ad hoc text snippets originally posted on [my blog](https://gutza.github.io/public):</description>
     <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gutza.github.io/public/rss-feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Abortion Was Never The Issue</title>
       <link>https://gutza.github.io/public/2025-10-01%20Abortion%20Was%20Never%20The%20Issue</link>
