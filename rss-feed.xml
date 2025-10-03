@@ -3,7 +3,7 @@
   <channel>
     <title>Public essays</title>
     <link>https://gutza.github.io/public/</link>
-    <description>Various public essays and ad hoc text snippets originally posted on [my blog](https://gutza.github.io/public):</description>
+    <description>Feed of essays</description>
     <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gutza.github.io/public/rss-feed.xml" rel="self" type="application/rss+xml" />
     <item>
