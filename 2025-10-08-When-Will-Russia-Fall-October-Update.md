@@ -1,7 +1,7 @@
 ---
 title: When Will Russia Fall? (October Update)
 date: 2025-10-08 13:06 +0300
-summary: October’s update tracks compounding fragility in Russia’s war effort—deeper refinery strikes, deteriorating cash flow, pricier logistics, and mounting labor shortages—arguing capacity remains but sustainability erodes.
+description: October’s update tracks compounding fragility in Russia’s war effort—deeper refinery strikes, deteriorating cash flow, pricier logistics, and mounting labor shortages—arguing capacity remains but sustainability erodes.
 ---
 # When Will Russia Fall? (October Update)
 
