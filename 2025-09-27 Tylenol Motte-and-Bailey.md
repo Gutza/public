@@ -1,3 +1,8 @@
+---
+title: A Case Study in Motte-and-Bailey: “Be Reasonable” as a Shield for Extreme Health Claims
+date: 2025-09-27 17:27:26 +0300
+description: Shows how a “be reasonable” defense of Trump’s Tylenol‑in‑pregnancy warning operates as a motte‑and‑bailey—retreating to truisms to launder an indefensible claim—and clarifies what the evidence actually supports.
+---
 # A Case Study in Motte-and-Bailey: “Be Reasonable” as a Shield for Extreme Health Claims
 
 ## Introduction: The claim, the backlash, and the “reasonable” retreat

@@ -1,3 +1,8 @@
+---
+title: Abortion Was Never The Issue
+date: 2025-10-01 14:56:00 +0300
+description: Abortion wasn’t the product; it was the slogan. Traces how Paul Weyrich reframed a coalition born in resistance to civil‑rights enforcement into a unifying moral crusade to preserve a racialized, Christian, patriarchal order.
+---
 # Abortion Was Never The Issue
 
 There’s a scene in the *Mad Men* pilot that doubles as a decoder ring for American politics. New rules ban health claims about cigarettes; the Lucky Strike account is in trouble. Don Draper doesn’t fight the rules—he reframes the product. If no brand can sell “safe,” then no brand can differentiate on safety. So he sells something else: “It’s toasted.” The line doesn’t resolve the moral problem; it resolves the marketing problem. It gives the base a reason to feel good while nothing fundamental changes.

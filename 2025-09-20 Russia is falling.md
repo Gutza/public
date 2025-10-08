@@ -1,3 +1,8 @@
+---
+title: Wake up! Russia is falling
+date: 2025-09-20 17:01:19 +0300
+description: Russia is in managed decline—paying more for shrinking gains, rebasing its fleet, straining finances, and inflating NATO risk—and urges planning now for post-war realities.
+---
 # Wake up! Russia is falling
 
 *Start planning for post-war realities*

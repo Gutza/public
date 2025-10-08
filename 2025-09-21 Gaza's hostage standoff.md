@@ -1,3 +1,8 @@
+---
+title: Gaza’s Hostage Standoff
+date: 2025-09-21 17:43:22 +0300
+description: This is a follow-up to a prior legal-evidence brief on Gaza. It does not seek heroes or villains. It asks who can, today, prevent foreseeable civilian death—and what it would take to do so.
+---
 # Gaza’s Hostage Standoff
 
 *This is a follow-up to a prior [legal-evidence brief on Gaza](2025-09-12 Palestinian eradication). It does not seek heroes or villains. It asks who can, today, prevent foreseeable civilian death—and what it would take to do so.*

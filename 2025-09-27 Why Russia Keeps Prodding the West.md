@@ -1,3 +1,8 @@
+---
+title: Why Russia Keeps Prodding the West: A Three-Pronged Tactic
+date: 2025-09-27 10:09:07 +0300
+description: Moscow’s recurring provocations are a three-pronged tactic—shoring the domestic siege narrative, deterring Western aid via escalation fear, and amplifying disinformation—signaling fragility rather than strength.
+---
 # Why Russia Keeps Prodding the West: A Three-Pronged Tactic
 
 Every month, Russia finds new ways to poke NATO in the ribs: drones straying into Polish airspace, GPS jamming over the Baltics, veiled nuclear threats in Kremlin pressers. To outsiders, this brinkmanship looks like needless risk. Why would Vladimir Putin endanger a clash he cannot win?

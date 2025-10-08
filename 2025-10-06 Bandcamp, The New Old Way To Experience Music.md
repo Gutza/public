@@ -1,3 +1,8 @@
+---
+title: Bandcamp: The New Old Way To Experience Music
+date: 2025-10-06 13:41:56 +0300
+description: An argument for buying music again: why Bandcamp’s album‑first storefront, community liner notes, and direct‑to‑artist economics make discovery slower—but better—and restore the feeling of owning music in a streaming era.
+---
 # Bandcamp: The New Old Way To Experience Music
 
 > ***[Bandcamp](https://www.bandcamp.com/) is an artist-first online music store and community builder with streaming as a secondary service:** you don’t subscribe; you choose what to own.*

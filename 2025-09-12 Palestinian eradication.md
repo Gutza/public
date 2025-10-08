@@ -1,3 +1,8 @@
+---
+title: Are there well-founded reasons to believe that Israel is attempting to eradicate the Palestinian population in Gaza?
+date: 2025-09-17 23:43:22 +0300
+description: Legal‑evidence brief arguing there are credible, documented grounds—spanning UN findings, ICJ orders, major NGOs and Israeli sources—that Israel is committing genocide in Gaza via policies that engineer life‑destroying conditions, and why “speed” doesn’t negate intent.
+---
 # Are there well-founded reasons to believe that Israel is attempting to eradicate the Palestinian population in Gaza?
 
 *(A legal-evidence brief, with sources)*
