@@ -1,1 +1,5 @@
+.jekyll-cache/
+_site/
 sandbox/
+vendor/
+Gemfile.lock

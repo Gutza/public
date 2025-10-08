@@ -1,0 +1,11 @@
+title: "Bogdan's public essays"
+description: "Various public essays and ad hoc text snippets"
+url: "https://gutza.github.io"
+baseurl: "/public"
+repository: Gutza/public
+permalink: "/:year-:month-:day-:title"
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+feed:
+  excerpt_only: true
