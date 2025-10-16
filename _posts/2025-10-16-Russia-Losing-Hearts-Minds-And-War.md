@@ -29,8 +29,6 @@ There's a famous Hemingway quote answering the question "*How did you go bankrup
 * **IMF 2025 GDP 0.6%**, policy rate **17%**; **NWF total ₽13.16T**, liquid ≈ **₽4T** (last reliable). ([Reuters](https://www.reuters.com/business/imf-downgrades-russias-2025-gdp-growth-forecast-06-2025-10-14/), [Interfax](https://interfax.com/newsroom/top-stories/114119/))
 * **PURL** for Patriot munitions; **Skyranger 35** to Ukraine (cost-effective C-UAS). ([Euronews](https://www.euronews.com/my-europe/2025/10/15/european-nato-allies-pledge-to-buy-more-us-weapons-for-ukraine-under-purl-scheme), [Rheinmetall](https://www.rheinmetall.com/en/media/news-watch/news/2025/10/2025-10-10-rheinmetall-skyranger-35-ukraine))
 
-Love the direction. Here’s a tighter, punchier version that keeps your thesis and trims anything that isn’t doing work:
-
 ## The counter-argument
 
 You’ll hear the line—almost certainly born of Kremlin PR—*“careful predicting Russia will fall: Napoleon and Hitler made the same mistake!”*
