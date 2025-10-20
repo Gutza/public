@@ -1,7 +1,7 @@
 ---
 title: "Russia Falling Counter-Analysis: Steelman"
 date: 2025-10-20 15:02:00 +0300
-description: "This is a reactions piece to the fresh wave of Russia-doesn't-fall-so-easily takes on the recent shift in perspective—using Money & Macro’s video [Why Russia's war economy is stronger than you think][1] as the best-articulated version. It’s a steelman, then a stress test. For context, see my Oct 16 sustainment note, where I argued Russia just shifted from “gradually” to “suddenly” on structural strain."
+description: "I steelman the 'Russia won’t collapse' case (Money & Macro) and then stress-test it. The bar is sustainability, not headlines: home-front energy damage, financing friction, and pricier workarounds point to a late-2025–mid-2026 sustainment break absent a major lifeline."
 ---
 
 # Russia Falling Counter-Analysis: Steelman

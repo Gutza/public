@@ -1,3 +1,9 @@
+---
+title: "Russia Losing Hearts & Minds (Plus the War)"
+date: 2025-10-16 23:43:51 +0300
+description: "Mid-October sustainment update: refinery hits, riskier crude routes, tighter sanctions, manpower strain, and waning diplomacy, moving Russia closer to a 2025 break point."
+---
+
 # Russia Losing Hearts & Minds (Plus the War)
 
 This is part of a personal project I started back in June to track the sustainment of Russia's war effort. I originally planned to only release monthly updates, but since my [post last week](https://gutza.github.io/public/2025-10-08-When-Will-Russia-Fall-October-Update), I felt that overall sentiment shifted significantly enough to warrant an update. This post continues my sustainment log: not who advanced 300 meters over the past 24 hours, but rather zooming out to estimate when the Kremlin will no longer be able to afford to keep fighting at scale.
