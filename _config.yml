@@ -7,5 +7,6 @@ permalink: "/:year-:month-:day-:title"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
 feed:
   excerpt_only: true
