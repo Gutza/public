@@ -364,9 +364,9 @@ There is a darker “accomplishment” too, of course: the plan has already crea
 
 But at least it brings the underlying question into focus: is the West prepared to trade lasting security for a short-term, Trump-branded ceasefire?
 
-# Conclusion – Recognizing a Dead End When You See One
+# Recognizing a Dead End When You See One
 
-Michael’s question was simple: if things are so bad for Russia, why doesn’t Putin just take one of Trump’s many sugar-coated off-ramps?
+Michael’s question was simple: _if things are so bad for Russia, why doesn’t Putin just take one of Trump’s many sugar-coated off-ramps?_
 
 The long answer we’ve just walked through boils down to this:
 
