@@ -6,9 +6,9 @@ description: "Trump’s 28-point peace plan for Ukraine is being sold as diploma
 # Designed for Failure: Trump's Peace Plan for Ukraine
 _Exploring an apparent diplomatic contradiction: why are we still talking about watering down Trump's proposed 28-point peace plan that was rejected by Moscow even in its original form?_
 
-When I published my [November update](https://medium.com/@gutzas/when-will-russia-fall-november-update-8da4e7216d50), a reader, Michael, asked a [deceptively simple question](https://medium.com/@ysb645/one-question-if-things-are-so-bad-for-russia-why-doesnt-putin-take-one-of-the-many-suger-coated-3bf1b8e1abff):
+When I published my [November update](https://medium.com/@gutzas/when-will-russia-fall-november-update-8da4e7216d50), a reader asked a [deceptively simple question](https://medium.com/@ysb645/one-question-if-things-are-so-bad-for-russia-why-doesnt-putin-take-one-of-the-many-suger-coated-3bf1b8e1abff):
 
-> If things are so bad for Russia, why doesn’t Putin just take one of the many sugar-coated off-ramps Trump keeps offering him?
+> If things are so bad for Russia, why doesn’t Putin just take one of the many sugar-coated off-ramps Trump keeps offering him? -Michael
 
 A week later, we’re drowning in headlines that *seem* to suggest that's exactly what's finally happening. The outlines of a [28-point U.S. peace proposal](https://www.reuters.com/world/europe/draft-us-backed-peace-proposal-ukraine-2025-11-21/) leak. Reports say Ukraine is being pressed to accept a deal that would [give up land and some weapons](https://www.reuters.com/world/europe/us-proposals-end-russias-war-involve-ukraine-giving-up-land-some-weapons-sources-2025-11-19/). European governments push back and produce their own [counter-proposal](https://www.reuters.com/business/finance/full-text-european-counter-proposal-us-ukraine-peace-plan-2025-11-23/). Washington and Kyiv then announce an “[updated and refined peace framework](https://www.reuters.com/world/europe/us-ukraine-european-officials-hold-talks-geneva-trumps-plan-end-war-2025-11-23/)” cut down to 19 points. Geneva talks, Abu Dhabi talks, “constructive dialogue”, cautious optimism.
 
