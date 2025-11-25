@@ -1,6 +1,6 @@
 ---
 title: "Designed for Failure: Trump's Peace Plan for Ukraine"
-date: 2025-11-25 12:00:00 +0300
+date: 2025-11-25 12:00:00 +0200
 description: "Trump’s 28-point peace plan for Ukraine is being sold as diplomacy slowly converging on compromise, even though the Kremlin has already rejected its most Russia-friendly version. This piece dissects why it remains structurally incompatible with both Ukraine’s survival and Europe’s security even after further modifications, and argues that these “off-ramps for Putin” are designed for Trump’s domestic narrative and alliance management rather than for actually ending the war."
 ---
 # Designed for Failure: Trump's Peace Plan for Ukraine

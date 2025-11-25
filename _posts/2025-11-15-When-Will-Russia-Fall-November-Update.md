@@ -1,6 +1,6 @@
 ---
 title: "When Will Russia Fall? (November Update)"
-date: 2025-11-15 03:00:00 +0300
+date: 2025-11-15 03:00:00 +0200
 description: "November’s update tracks deeper damage to Russia’s fuel and revenue base, worsening fiscal and labour stress, and tighter sanctions enforcement—arguing that capacity remains but the late‑2025 to mid‑2026 sustainment window is drifting earlier even as “bigger war by 2030” warnings grow louder."
 ---
 # When Will Russia Fall? (November Update)
