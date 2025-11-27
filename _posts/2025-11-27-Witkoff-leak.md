@@ -27,14 +27,14 @@ I couldn't find a good overview of what we know about the Witkoff leak, so I dec
 That’s the backdrop: an already-controversial, heavily Russia-leaning draft, being sold by a non-traditional envoy with strong personal ties to Trump and documented access to senior Russians.
 
 Major sources:
-* [Newsweek](https://www.newsweek.com/russia-ukraine-war-news-updates-trump-plan-putin-11110466?utm_source=chatgpt.com)
-* [Al Jazeera](https://www.aljazeera.com/news/2025/11/23/us-ukraine-talks-why-are-european-leaders-opposing-trumps-peace-plan?utm_source=chatgpt.com)
-* [Newsweek](https://www.newsweek.com/who-leaked-steve-witkoff-phone-call-russia-potential-suspects-11113839?utm_source=chatgpt.com)
-* [Reuters](https://www.reuters.com/world/europe/kremlin-aide-ushakov-says-he-witkoff-will-be-touch-about-their-leaked-call-2025-11-26/?utm_source=chatgpt.com)
-* [The Guardian](https://www.theguardian.com/us-news/2025/nov/26/republicans-steve-witkoff-leaked-call-russia-ukraine?utm_source=chatgpt.com)
-* [The Guardian](https://www.theguardian.com/us-news/2025/nov/26/republicans-steve-witkoff-leaked-call-russia-ukraine?utm_source=chatgpt.com)
-* [TIME](https://time.com/7336906/steve-witkoff-russia-call-trump-ukraine-peace-plan/?utm_source=chatgpt.com)
-* [The Guardian](https://www.theguardian.com/world/2025/nov/27/ukraine-war-briefing-donald-trump-steve-witkoff-peace-plan-criticised-republicans?utm_source=chatgpt.com)
+* [Newsweek](https://www.newsweek.com/russia-ukraine-war-news-updates-trump-plan-putin-11110466)
+* [Al Jazeera](https://www.aljazeera.com/news/2025/11/23/us-ukraine-talks-why-are-european-leaders-opposing-trumps-peace-plan)
+* [Newsweek](https://www.newsweek.com/who-leaked-steve-witkoff-phone-call-russia-potential-suspects-11113839)
+* [Reuters](https://www.reuters.com/world/europe/kremlin-aide-ushakov-says-he-witkoff-will-be-touch-about-their-leaked-call-2025-11-26/)
+* [The Guardian](https://www.theguardian.com/us-news/2025/nov/26/republicans-steve-witkoff-leaked-call-russia-ukraine)
+* [The Guardian](https://www.theguardian.com/us-news/2025/nov/26/republicans-steve-witkoff-leaked-call-russia-ukraine)
+* [TIME](https://time.com/7336906/steve-witkoff-russia-call-trump-ukraine-peace-plan/)
+* [The Guardian](https://www.theguardian.com/world/2025/nov/27/ukraine-war-briefing-donald-trump-steve-witkoff-peace-plan-criticised-republicans)
 
 ## What the leaked calls show
 
@@ -280,10 +280,10 @@ In other words, even if the plan was sincere, the leak has **significantly reduc
 [3]: https://apnews.com/article/trump-witkoff-putin-ukraine-bloomberg-3844a3721d92dd9ae9681547a0814d88 "How Witkoff coached Putin's aide on pitching Trump, according to a Bloomberg report | AP News"
 [4]: https://www.euronews.com/2025/11/26/trump-backs-witkoff-after-leaked-call-appears-to-show-envoy-advised-putin-aide-on-ukraine- "Trump backs Witkoff after leaked call appears to show envoy advised Putin aide on Ukraine peace plan | Euronews"
 [5]: https://www.newsweek.com/who-leaked-steve-witkoff-phone-call-russia-potential-suspects-11113839 "Who leaked Steve Witkoff’s phone call with Russia: Three suspects - Newsweek"
-[6]: https://www.reuters.com/world/europe/kremlin-aide-ushakov-says-he-witkoff-will-be-touch-about-their-leaked-call-2025-11-26/?utm_source=chatgpt.com "Russia says leak of Witkoff call recording is unacceptable, amounts to hybrid warfare"
+[6]: https://www.reuters.com/world/europe/kremlin-aide-ushakov-says-he-witkoff-will-be-touch-about-their-leaked-call-2025-11-26/ "Russia says leak of Witkoff call recording is unacceptable, amounts to hybrid warfare"
 [7]: https://www.newsweek.com/russia-ukraine-war-news-updates-trump-plan-putin-11110466 "Putin Gives Update on Ukraine Peace, Trump Sending Witkoff to Moscow: Live Updates - Newsweek"
-[8]: https://www.theguardian.com/us-news/2025/nov/26/republicans-steve-witkoff-leaked-call-russia-ukraine?utm_source=chatgpt.com "'Traitor': US representatives call for Trump envoy Witkoff to be fired after leaked Kremlin call"
-[9]: https://www.theguardian.com/world/2025/nov/27/ukraine-war-briefing-donald-trump-steve-witkoff-peace-plan-criticised-republicans?utm_source=chatgpt.com "Ukraine war briefing: Witkoff peace plan call angers Republicans"
+[8]: https://www.theguardian.com/us-news/2025/nov/26/republicans-steve-witkoff-leaked-call-russia-ukraine "'Traitor': US representatives call for Trump envoy Witkoff to be fired after leaked Kremlin call"
+[9]: https://www.theguardian.com/world/2025/nov/27/ukraine-war-briefing-donald-trump-steve-witkoff-peace-plan-criticised-republicans "Ukraine war briefing: Witkoff peace plan call angers Republicans"
 [10]: https://abcnews.go.com/International/kremlin-aide-preliminary-agreement-place-witkoff-moscow-visit/story?id=127887384 "Alleged Witkoff-Kremlin call on Ukraine was 'standard negotiation,' Trump says - ABC News"
-[11]: https://newsukraine.rbc.ua/news/leaked-calls-trump-envoy-advises-kremlin-1764167301.html?utm_source=chatgpt.com "Leaked calls: Trump envoy advises Kremlin on framing ..."
+[11]: https://newsukraine.rbc.ua/news/leaked-calls-trump-envoy-advises-kremlin-1764167301.html "Leaked calls: Trump envoy advises Kremlin on framing ..."
 [12]: https://www.reuters.com/world/europe/kremlin-aide-ushakov-says-he-witkoff-will-be-touch-about-their-leaked-call-2025-11-26/ "Russia says leak of Witkoff call recording is unacceptable, amounts to hybrid warfare | Reuters"
