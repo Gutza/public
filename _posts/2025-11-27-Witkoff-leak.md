@@ -10,7 +10,7 @@ I couldn't find a good overview of what we know about the Witkoff leak, so I dec
 - What the leaked calls show
 - Who leaked the calls?
 - Reactions
-- What's the relevance of these findings?
+- Relevance, moving forward
 
 ## Context: the Trump 28-point peace plan and Witkoff’s role
 
