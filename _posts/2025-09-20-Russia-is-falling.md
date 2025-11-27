@@ -71,29 +71,29 @@ No one can timestamp the final straw. But “falling” is a process, and it’s
 
 Russia is bleeding for inches at Pokrovsk, evacuating ships from Crimea, juggling fuel shortages at home, taxing and borrowing into a slowing, high-rate economy—all while poking NATO to keep us second-guessing ourselves. That’s not strength; it’s **managed decline with propaganda**. The winning move for the rest of us is to **plan, invest, and build**—a safer Ukraine, a sturdier Europe, a NATO that treats the Black Sea like the Baltics: defended, connected, and open for business.
 
-* [Reuters](https://www.reuters.com/business/aerospace-defense/nato-member-estonia-says-three-russian-jets-violated-its-airspace-2025-09-19/?utm_source=chatgpt.com)
-* [The Guardian](https://www.theguardian.com/world/2025/sep/19/estonia-accuses-russia-of-brazen-violation-of-its-airspace?utm_source=chatgpt.com)
-* [Reuters](https://www.reuters.com/world/europe/russia-hits-ukraine-with-barrage-drones-missiles-kills-3-kyiv-says-2025-09-20/?utm_source=chatgpt.com)
-* [Reuters](https://www.reuters.com/business/energy/russias-september-oil-gas-budget-revenue-seen-falling-23-2025-09-18/?utm_source=chatgpt.com)
-* [Reuters](https://www.reuters.com/business/energy/us-lawmakers-want-sanctions-sink-russias-shadow-fleet-2025-09-19/?utm_source=chatgpt.com)
-* [Reuters](https://www.reuters.com/world/ukraines-zelenskiy-welcomes-presentation-19th-sanctions-package-russia-2025-09-19/?utm_source=chatgpt.com)
-* [Reuters](https://www.reuters.com/business/energy/russias-novatek-redirects-gas-condensate-novorossiisk-after-ust-luga-complex-2025-09-18/?utm_source=chatgpt.com)
-* [Reuters](https://www.reuters.com/world/zelenskiy-says-ukrainian-forces-inflict-heavy-losses-russia-counteroffensive-2025-09-19/?utm_source=chatgpt.com)
+* [Reuters](https://www.reuters.com/business/aerospace-defense/nato-member-estonia-says-three-russian-jets-violated-its-airspace-2025-09-19/)
+* [The Guardian](https://www.theguardian.com/world/2025/sep/19/estonia-accuses-russia-of-brazen-violation-of-its-airspace)
+* [Reuters](https://www.reuters.com/world/europe/russia-hits-ukraine-with-barrage-drones-missiles-kills-3-kyiv-says-2025-09-20/)
+* [Reuters](https://www.reuters.com/business/energy/russias-september-oil-gas-budget-revenue-seen-falling-23-2025-09-18/)
+* [Reuters](https://www.reuters.com/business/energy/us-lawmakers-want-sanctions-sink-russias-shadow-fleet-2025-09-19/)
+* [Reuters](https://www.reuters.com/world/ukraines-zelenskiy-welcomes-presentation-19th-sanctions-package-russia-2025-09-19/)
+* [Reuters](https://www.reuters.com/business/energy/russias-novatek-redirects-gas-condensate-novorossiisk-after-ust-luga-complex-2025-09-18/)
+* [Reuters](https://www.reuters.com/world/zelenskiy-says-ukrainian-forces-inflict-heavy-losses-russia-counteroffensive-2025-09-19/)
 
-[1]: https://www.reuters.com/business/aerospace-defense/nato-member-estonia-says-three-russian-jets-violated-its-airspace-2025-09-19/?utm_source=chatgpt.com "Russian jets enter Estonia's airspace in latest test for NATO"
-[2]: https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-19-2025/?utm_source=chatgpt.com "Russian Offensive Campaign Assessment Sept. 19, 2025"
-[3]: https://www.telegraph.co.uk/global-health/terror-and-security/putin-sends-squads-of-sick-soldiers-into-pokrovsk-meat-grin/?utm_source=chatgpt.com "Putin sends squads of sick soldiers into Pokrovsk 'meat ..."
-[4]: https://www.reuters.com/world/europe/ukraine-navy-chief-says-russia-is-losing-crimean-hub-black-sea-2024-07-05/?utm_source=chatgpt.com "Ukraine navy chief says Russia is losing Crimean hub in ..."
-[5]: https://www.reuters.com/world/ukrainian-drones-target-russian-petrochemical-complex-oil-refinery-2025-09-18/?utm_source=chatgpt.com "Ukrainian drones target Russian petrochemical complex and oil refinery"
-[6]: https://www.reuters.com/world/europe/russia-hits-ukraine-with-biggest-air-attack-war-sets-government-building-ablaze-2025-09-07/?utm_source=chatgpt.com "Russia hits Ukraine with biggest air attack of war, sets ..."
-[7]: https://www.reuters.com/business/energy/russias-september-oil-gas-budget-revenue-seen-falling-23-2025-09-18/?utm_source=chatgpt.com "Russia's September oil and gas budget revenue seen falling 23%"
-[8]: https://www.tradingview.com/news/reuters.com%2C2025%3Anewsml_S8N3U50I0%3A0-russia-s-national-wealth-fund-liquid-assets-little-changed-as-of-september-1/?utm_source=chatgpt.com "Russia's national wealth fund liquid assets little changed ..."
-[9]: https://www.reuters.com/markets/europe/russian-central-bank-cautiously-cuts-key-rate-by-100-bps-17-2025-09-12/?utm_source=chatgpt.com "Russian central bank cautiously cuts key rate by 100 bps to ..."
-[10]: https://www.reuters.com/world/ukraines-zelenskiy-welcomes-presentation-19th-sanctions-package-russia-2025-09-19/?utm_source=chatgpt.com "Ukraine's Zelenskiy welcomes presentation of 19th sanctions package on Russia"
-[11]: https://www.rusi.org/explore-our-research/publications/commentary/brothers-arms-assessing-north-koreas-contribution-russias-war-ukraine?utm_source=chatgpt.com "Brothers in Arms: Assessing North Korea's Contribution to ..."
-[12]: https://www.washingtonpost.com/world/2025/09/19/russia-kozak-putin-kremlin-resign/?utm_source=chatgpt.com "Rare war critic in Putin's inner circle resigns"
-[13]: https://www.reuters.com/world/europe/heroes-villains-russia-braces-eventual-return-its-enormous-army-2025-09-09/?utm_source=chatgpt.com "Russia braces for eventual return of its enormous army"
-[14]: https://www.theatlantic.com/international/archive/2025/09/russia-ukraine-public-putin/684146/?utm_source=chatgpt.com "Russia Is Losing the War—Just Not to Ukraine"
-[15]: https://www.reuters.com/world/ukraine-needs-500-million-euros-rebuild-critical-port-facilities-damaged-by-2025-05-30/?utm_source=chatgpt.com "Ukraine needs 500 million euros to rebuild critical port facilities damaged by Russia"
-[16]: https://www.reuters.com/business/energy/us-lawmakers-want-sanctions-sink-russias-shadow-fleet-2025-09-19/?utm_source=chatgpt.com "US lawmakers want sanctions to sink Russia's 'shadow fleet'"
-[17]: https://www.reuters.com/business/finance/eu-floats-plan-use-frozen-russian-assets-ukraine-loan-bypassing-hungary-veto-2025-09-18/?utm_source=chatgpt.com "EU floats plan to use frozen Russian assets for Ukraine ..."
+[1]: https://www.reuters.com/business/aerospace-defense/nato-member-estonia-says-three-russian-jets-violated-its-airspace-2025-09-19/ "Russian jets enter Estonia's airspace in latest test for NATO"
+[2]: https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-19-2025/ "Russian Offensive Campaign Assessment Sept. 19, 2025"
+[3]: https://www.telegraph.co.uk/global-health/terror-and-security/putin-sends-squads-of-sick-soldiers-into-pokrovsk-meat-grin/ "Putin sends squads of sick soldiers into Pokrovsk 'meat ..."
+[4]: https://www.reuters.com/world/europe/ukraine-navy-chief-says-russia-is-losing-crimean-hub-black-sea-2024-07-05/ "Ukraine navy chief says Russia is losing Crimean hub in ..."
+[5]: https://www.reuters.com/world/ukrainian-drones-target-russian-petrochemical-complex-oil-refinery-2025-09-18/ "Ukrainian drones target Russian petrochemical complex and oil refinery"
+[6]: https://www.reuters.com/world/europe/russia-hits-ukraine-with-biggest-air-attack-war-sets-government-building-ablaze-2025-09-07/ "Russia hits Ukraine with biggest air attack of war, sets ..."
+[7]: https://www.reuters.com/business/energy/russias-september-oil-gas-budget-revenue-seen-falling-23-2025-09-18/ "Russia's September oil and gas budget revenue seen falling 23%"
+[8]: https://www.tradingview.com/news/reuters.com%2C2025%3Anewsml_S8N3U50I0%3A0-russia-s-national-wealth-fund-liquid-assets-little-changed-as-of-september-1/ "Russia's national wealth fund liquid assets little changed ..."
+[9]: https://www.reuters.com/markets/europe/russian-central-bank-cautiously-cuts-key-rate-by-100-bps-17-2025-09-12/ "Russian central bank cautiously cuts key rate by 100 bps to ..."
+[10]: https://www.reuters.com/world/ukraines-zelenskiy-welcomes-presentation-19th-sanctions-package-russia-2025-09-19/ "Ukraine's Zelenskiy welcomes presentation of 19th sanctions package on Russia"
+[11]: https://www.rusi.org/explore-our-research/publications/commentary/brothers-arms-assessing-north-koreas-contribution-russias-war-ukraine "Brothers in Arms: Assessing North Korea's Contribution to ..."
+[12]: https://www.washingtonpost.com/world/2025/09/19/russia-kozak-putin-kremlin-resign/ "Rare war critic in Putin's inner circle resigns"
+[13]: https://www.reuters.com/world/europe/heroes-villains-russia-braces-eventual-return-its-enormous-army-2025-09-09/ "Russia braces for eventual return of its enormous army"
+[14]: https://www.theatlantic.com/international/archive/2025/09/russia-ukraine-public-putin/684146/ "Russia Is Losing the War—Just Not to Ukraine"
+[15]: https://www.reuters.com/world/ukraine-needs-500-million-euros-rebuild-critical-port-facilities-damaged-by-2025-05-30/ "Ukraine needs 500 million euros to rebuild critical port facilities damaged by Russia"
+[16]: https://www.reuters.com/business/energy/us-lawmakers-want-sanctions-sink-russias-shadow-fleet-2025-09-19/ "US lawmakers want sanctions to sink Russia's 'shadow fleet'"
+[17]: https://www.reuters.com/business/finance/eu-floats-plan-use-frozen-russian-assets-ukraine-loan-bypassing-hungary-veto-2025-09-18/ "EU floats plan to use frozen Russian assets for Ukraine ..."
