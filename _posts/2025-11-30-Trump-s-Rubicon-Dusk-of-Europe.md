@@ -6,9 +6,9 @@ description: "An analysis of how a potential Trump-brokered 'peace for profit' d
 
 # Trump’s Rubicon and the Dusk of Europe
 
-I’ve systematically tracked Russia’s war sustainability for months, measuring its economic resilience, manpower, and materiel, under the assumption was that mounting costs might eventually force Moscow to stand down. That assumption may become irrelevant if Putin secures a win at the negotiating table before Russia even reaches sustainment limits—never mind exhaustion.
+I’ve systematically [tracked Russia’s war sustainability](https://gutza.github.io/public/2025-11-15-When-Will-Russia-Fall-November-Update) for months, measuring its economic resilience, manpower, and materiel, under the assumption was that mounting costs might eventually force Moscow to stand down. That assumption may become irrelevant if Putin secures a win at the negotiating table before Russia even reaches sustainment limits—never mind exhaustion.
 
-So far, Putin hasn’t blinked: he managed to project an unwielding belief that time is on his side, and remains unwilling to compromise short of *[Ukrainian capitulation](https://www.russiamatters.org/news/russia-analytical-report/russia-analytical-report-nov-17-24-2025#:~:text=,%E2%80%9Csuffered%20over%201%20million%20casualties)*. In other words, the Kremlin’s gambit has been to outlast Western resolve, and **Trump may be proving that gambit right**.
+So far, Putin hasn’t blinked: he managed to project an unwavering belief that time is on his side, and remains unwilling to compromise short of *[Ukrainian capitulation](https://www.russiamatters.org/news/russia-analytical-report/russia-analytical-report-nov-17-24-2025#:~:text=,%E2%80%9Csuffered%20over%201%20million%20casualties)*. In other words, the Kremlin’s gambit has been to outlast Western resolve, and **Trump may be proving that gambit right**.
 
 ## A Gathering Storm: New Crises Triggering Alarm
 
