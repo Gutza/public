@@ -11,6 +11,7 @@ description: "We are living through an Interregnum—a volatile transition where
 We are living through a historical anomaly. The old world—the post-WWII order of American hegemony, free trade, and liberal institutions—is undeniably dying. The new world—likely a fractured, multipolar landscape of competing power blocs—has not yet been born.
 
 Italian philosopher Antonio Gramsci famously described such periods as an **Interregnum**: *"The old is dying and the new cannot be born; in this interregnum a great variety of morbid symptoms appear."*
+
 In previous centuries, these transitions were generational struggles. The shift from British to American dominance took three decades (1914–1945). The Napoleonic reordering of Europe took over twenty years. But today, history does not just march; it sprints. Driven by digital connectivity, algorithmic finance, and rapid technological obsolescence, the timeline of global change has compressed. What once took thirty years now takes ten.
 
 We are likely in a volatile transition window of **10 to 15 years**, which began roughly around the systemic shocks of 2020. This places the arrival of a "new equilibrium" somewhere in the mid-to-late 2030s.
@@ -46,6 +47,7 @@ Perhaps the most potent and forward-looking facet is the influence of Silicon Va
 ## The Compressed Future
 
 The convergence of these three forces—**Narcissistic Chaos, Political Arson, and Techno-Accelerationism**—creates a "High-Beta" presidency. In financial terms, "high beta" means an asset that amplifies market movements. Trump is a High-Beta President for a High-Beta World.
+
 If the global system is heading toward conflict, his refusal to de-escalate speeds us there. If the economy is decoupling, his protectionism completes the divorce overnight. He forces the future to happen *sooner*.
 
 The Interregnum we are in is dangerous not just because the old rules are gone, but because the new rules are being written by those who believe the only way out is *through*. We are no longer waiting for the 2050s. The history of the next century is being decided in the next four years.
