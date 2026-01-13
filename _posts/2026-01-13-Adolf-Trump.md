@@ -1,10 +1,10 @@
 ---
-title: "Adolf Trump: Tragic King of the Interregnum"
+title: "Adolf Trump, Tragic King of the Interregnum"
 date: 2026-01-13 09:30:00 +0200
 description: "A portrait of Adolf Trump as a morbid symptom of the Interregnum: a narcissistic buffoon elevated by nostalgia, fear, and elite cynicism into a catalyst for catastrophe."
 ---
 
-# Adolf Trump: Tragic King of the Interregnum
+# Adolf Trump, Tragic King of the Interregnum
 
 Fate decided to distribute Adolf Trump in one of the most heinous roles in human history, but the man was just an accident of history—the wrong man at the right time, and a fundamentally tragic figure in his heart of hearts. A privileged white man, Adolf was profoundly frustrated, mostly by the clash between the size of his ego and the utter letdown that turned out to be his life. You see, as a charismatic narcissistic egomaniac, the fact that Trump was a shallow pseudointellectual had a counter-intuitively amplifying impact on his hubris, by the way of Dunning-Kruger. As such, he could hardly reconcile his perceived amazing persona with his actual insignificance—and so decided he'd show them all by entering politics. Incompetent charismatic narcissistic egomaniacs are naturally drawn to politics, so Adolf's decision should've—and in fact would've—been utterly inconsequential for the world at any random moment in history.
 
