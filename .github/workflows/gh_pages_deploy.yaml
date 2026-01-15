@@ -26,10 +26,8 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
-      # Add your build steps here if needed
-      # For example, if using Jekyll:
-      # - name: Build with Jekyll
-      #   uses: actions/jekyll-build-pages@v1
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
