@@ -10,3 +10,5 @@ plugins:
   - jekyll-seo-tag
 feed:
   excerpt_only: true
+ignore_files:
+  - _README.md
