@@ -4,7 +4,7 @@ published: false
 
 For all commands below to work, save the current directory to a variable:
 ```ps1
-$pwd = (Get-Location).Path
+$PWD = (Get-Location).Path
 ```
 
 Install dependencies:
