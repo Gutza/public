@@ -4,6 +4,7 @@ url: "https://gutza.github.io"
 baseurl: "/public"
 repository: Gutza/public
 permalink: "/:year-:month-:day-:title"
+theme: null
 plugins:
   - jekyll-feed
   - jekyll-sitemap
