@@ -20,7 +20,7 @@ When alkaline batteries hit the mainstream market, they didn't just offer an inc
 
 Fast forward to today, and the baseline of consumer power is generally divided into two main camps. On one side, we have rechargeable lithium-ion batteries—the integrated, flat packs that power our smartphones, laptops, and electric vehicles. On the other side, the descendants of that great Alkaline Revolution (Zinc-Manganese Dioxide) remain the standard 1.5V household baseline for everything from TV remotes to wall clocks. 
 
-However, despite being cheap and ubiquitous, standard alkalines still have their flaws. Their voltage still drops steadily as they discharge. Under high-drain situations, their internal resistance causes them to sag and die prematurely. In freezing temperatures, their water-based electrolytes stall out. And yes, as they discharge and generate hydrogen gas, they can still break their seals and leak a corrosive mess of potassium hydroxide into your favorite electronics.
+However, despite being cheap and ubiquitous, standard alkalines still have their flaws. Their voltage still drops steadily as they discharge. Under high-drain situations, their internal resistance causes them to sag and die prematurely. In freezing temperatures, their water-based electrolytes stall out. And yes, as they discharge and generate hydrogen gas, they can still break their seals and leak a corrosive mess into your favorite electronics—just like their zinc-carbon primitive siblings were infamously prone to.
 
 ## The Non-Rechargeable Lithium Workhorse
 
@@ -29,10 +29,10 @@ Enter the modern upgrade: the **non-rechargeable lithium battery**, specifically
 *   **The Flat Discharge Curve:** While alkaline voltage steadily fades, lithium batteries push out a highly stable, consistent voltage for nearly their entire lifespan, dropping off a cliff only at the very end. Your devices perform at 100% right up until the battery dies.
 *   **Superior Energy Density and Weight:** Lithium is the lightest metal on the periodic table. A standard AA lithium holds roughly 3000 to 3500 mAh of energy (compared to an alkaline's 2000-2500 mAh) while weighing about 33% less. Put four of these in a heavy flashlight, and the weight reduction is instantly noticeable.
 *   **High-Drain Dominance:** Devices like digital cameras and high-lumen LED flashlights draw a massive amount of current. Thanks to their low internal resistance, lithium batteries can dump huge amounts of power on demand, lasting 6 to 9 times longer than alkalines in these applications.
-*   **Extreme Temperatures:** Because they use a non-aqueous (waterless) electrolyte, lithium primary batteries operate flawlessly in extreme temperatures ranging from a blistering 60°C (140°F) down to a bone-chilling -40°C (-40°F).
+*   **Extreme Temperatures:** Because they use a non-aqueous (waterless) electrolyte, lithium primary batteries operate flawlessly in extreme temperatures ranging from 60°C (140°F) down to -40°C (-40°F).
 *   **No Leaking & 20-Year Shelf Life:** Lithium batteries do not produce the gas buildup that alkalines do, and their physical construction requires much tighter seals. They essentially never leak under normal conditions and boast a shelf life of up to 20 years. 
 
-The only real downside is the cost: they are 2x to 4x more expensive than standard consumer grade alkaline batteries. 
+**The only real downside is the cost**: lithium batteries are 2x to 4x more expensive than standard consumer grade alkaline batteries. 
 
 ## The Danger Zone: Freaks, Quirks, and Industrial Saboteurs
 
