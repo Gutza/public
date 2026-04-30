@@ -128,7 +128,7 @@ Yesterday, a Supreme Court composed of six justices appointed by Republican pres
 
 The American political game has gradually eroded the democratic fundamentals until it ended up with a structurally corrupt electoral system. No individual is corrupt in the ordinary sense. Every judge is ruling according to legal reasoning they genuinely hold. Every politician drawing maps is operating within the law as it has been defined. Every individual decision is formally defensible. No laws are broken, no bribes change hands. The system is functioning exactly as designed — or rather, exactly as it has been incrementally redesigned, over decades, by the people whose power depends on it functioning this way. The decision system itself is a victim of packing and cracking - each decision is locally defensible, and yet the systemic outcome is corrupt.
 
-Maps produce the House seats which confirm the Supreme Court which rules to protect the maps. This is not a malfunction, it's a positive feedback loop built into the architecture.
+Maps produce the congressional and electoral majorities that determine who sits on the Supreme Court, which rules to protect the maps. This is not a malfunction, it's a positive feedback loop built into the architecture.
 
 If you compare today's ruling to yesterday's legal landscape, it looks like a step in an ongoing legal debate. If you compare it to the principle of one person, one vote, it looks like something else entirely: a self-reinforcing system in which the formal procedures of democracy are meticulously preserved while its substantive purpose — a government deriving its just powers from the consent of the governed — is converted, incrementally and lawfully, into a permanent advantage for those who already hold power.
 
