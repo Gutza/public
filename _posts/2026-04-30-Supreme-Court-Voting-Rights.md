@@ -14,7 +14,7 @@ Let's build this up from first principles.
 
 ## Every Electoral System Has Limits; That's Normal
 
-Before we get to the American situation, it's worth acknowledging something that anyone who has voted in political elections understands intuitively: **no electoral system is perfect**. All of them introduce some distortion between what voters actually want and the government they actually get.
+Before we get to the American situation, it's worth acknowledging something that anyone who has voted in political elections understands intuitively: **no electoral system is perfect**. All of them introduce some distortion between what voters want and the government they actually get.
 
 If your country uses a two-round presidential election — as France, Romania, Brazil, and many others do — you already know that the first round involves a degree of strategic voting. Your preferred candidate may have no realistic chance of winning, so you vote tactically to influence which two candidates make it to the runoff. Your sincere preference is not what you express on the ballot.
 
